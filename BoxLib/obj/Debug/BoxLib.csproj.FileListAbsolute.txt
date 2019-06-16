@@ -1,0 +1,10 @@
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\bin\Debug\BoxLib.dll
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\bin\Debug\BoxLib.pdb
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\obj\Debug\BoxLib.csproj.CoreCompileInputs.cache
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\obj\Debug\BoxLib.dll
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\obj\Debug\BoxLib.pdb
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\obj\Debug\BoxLib.csproj.CopyComplete
+C:\Users\osher\source\repos\BoxStoreProj\BoxLib\obj\Debug\BoxLib.csprojAssemblyReference.cache
